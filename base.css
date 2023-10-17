@@ -28,8 +28,16 @@ body {
 }
 
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: rgb(238, 236, 236);
     min-height: 150px;
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    width: 50%;
 }
 
 .content {
