@@ -1,6 +1,6 @@
 # DESAFIO 2 - FORMAÇÃO HTML5 WEB DEVELOPER DIO
 
-O presente documento possui O DESAFIO 2, realizado durante o curso "Formação HTML5 Web Developer da DIO", utilizando-se a tecnologia HTML5. A atividade proposta consistiu na construção de um website quase completo, empregando os temas apresentados em aula: formulários, estruturação e formação de texto, mídias, tabelas, dentre outros recursos já aprendidos. 
+O presente documento possui O DESAFIO 2, realizado durante o curso "Formação HTML5 Web Developer da DIO", utilizando-se a tecnologia HTML5. A atividade proposta consistiu na construção de um website quase completo, empregando os temas apresentados em aula: formulários, estruturação e formatação de texto, mídias, tabelas, dentre outros recursos já aprendidos. 
 O site deve ser:
 1 - Sobre uma clínica médica fictícia;
 2 - Deve conter um menu de navegação com links para as seguintes páginas: página principal, sobre a clínica, horário de atendimento, contato;
