@@ -29,7 +29,7 @@ body {
 }
 
 .header {
-    background-color: #ffbc88;
+    background-color: white;
     min-height: 150px;
 }
 
@@ -38,8 +38,8 @@ body {
 }
 
 img {
-    width: 70%;
-    height: 230px;
+    width: 100%;
+    height: 400px;
     opacity: 0.7;
 }
 
@@ -65,8 +65,36 @@ h1 {
 }
 
 blockquote {
-    font-size: 16px;
+    font-size: 20px;
     font-family: cursive;
+    text-align: center;  
+}
+
+.imagemmsg {
     text-align: center;
-    
+}
+
+.imagemmsg img {
+    width: 30%;
+    height: 30%;
+}
+
+table {
+    width: 75%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(189, 169, 208);
+    align-items: center;
+}
+
+th {
+    background-color: rgba(255, 35, 255, 0.568);
+}
+
+tr {
+    background-color: #eee;
+}
+
+.form {
+    display: flex;
 }
